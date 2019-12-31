@@ -31,7 +31,6 @@
 # }
 
 def naming_system
-<<<<<<< HEAD
    {
    :label => "Kingdom",
   :sub_category => {
